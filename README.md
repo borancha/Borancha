@@ -1,2 +1,2 @@
 # borancha
-Data Analyst | Power BI | SQL | Python | business analyst 
+Data Analyst | Power BI | SQL | Python | Business Analyst | Healthcare | Tableau
