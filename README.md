@@ -44,14 +44,14 @@ My work combines **business analysis, data analytics, SQL, Python, and BI visual
 
 ## 📊 Featured Projects
 
-### 🏥 Healthcare Claims & Patient Analytics
+### 🏥 [Healthcare Claims & Patient Analytics](https://github.com/borancha/healthcare-analytics-project)
 End-to-end healthcare analytics project using **SQL, Python, and Power BI** to analyze claims, patient demographics, diagnoses, providers, insurance types, claim status, costs, and length of stay.
 
 **Focus:** Healthcare Analytics • SQL • Python • Power BI
 
 ---
 
-### 🏛️ Medicaid Program Integrity & Cost Optimization
+### 🏛️ [Medicaid Program Integrity & Cost Optimization](https://github.com/borancha/medicaid-program-integrity-analytics)
 Analytics project focused on **Medicaid financial and utilization analysis** using Microsoft Fabric, SQL, Python, and Power BI.
 
 **Focus:** Healthcare Analytics • Financial Analytics • Microsoft Fabric • SQL • Python • Power BI
