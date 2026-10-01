@@ -7,6 +7,13 @@ I’m a Business Analyst and Data Analyst with experience translating business r
 My work combines **business analysis, data analytics, SQL, Python, and BI visualization** to solve healthcare, financial, and operational problems.
 
 ---
+## 💡 What I Do
+
+I bridge business needs and data by translating stakeholder requirements into analytical solutions, actionable insights, and business intelligence.
+
+My work typically follows an end-to-end approach:
+
+**Business Problem → Requirements → Data → Analysis → Visualization → Insights → Recommendations**
 
 ## 🛠️ Technical Skills
 
